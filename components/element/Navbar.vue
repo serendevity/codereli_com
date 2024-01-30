@@ -6,10 +6,10 @@
                     <nuxt-link to="/" relative flex items-center gap-3>
                         <span class="flex">
                             <span w3 h6 rd-l-full flex bg-emerald-6></span>
-                            <span w3 h6 rd-r-full flex bg-teal-4 mt1.5></span>
+                            <span w3 h6 rd-r-full flex bg-blue-1 mt1.5></span>
                         </span>
                         <div inline-flex text="lg neutral-8 dark:white" font-semibold>
-                            Estavis
+                            Codereli
                         </div>
                     </nuxt-link>
                 </div>
